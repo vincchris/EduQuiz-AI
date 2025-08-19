@@ -1,7 +1,6 @@
-# pandas
-# scikit-learn
-# matplotlib
-# seaborn
-# joblib
-# openpyxl
-# jupyter
+fastapi
+uvicorn
+joblib
+scikit-learn
+pydantic
+sqlalchemy
